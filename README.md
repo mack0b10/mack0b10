@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="./assets/terminator.gif" width="100%" alt="MACK0B10 Animated Terminator ASCII Scan">
 
@@ -77,7 +78,7 @@ Building a hands-on cybersecurity environment using Node.js, Express, Kali Linux
 
 `STATUS: IN DEVELOPMENT`
 
-
+---
 
 ### 🛠️ TOOLS & TECHNOLOGIES
 
@@ -93,11 +94,7 @@ Building a hands-on cybersecurity environment using Node.js, Express, Kali Linux
 
 ---
 
-<div align="center">
-
-```text
-
-<h3 align="center">🔴 SYSTEM ACTIVITY // CONTRIBUTION TRACKER</h3>
+### 🔴 SYSTEM ACTIVITY // CONTRIBUTION TRACKER
 
 <div align="center">
 
@@ -105,6 +102,11 @@ Building a hands-on cybersecurity environment using Node.js, Express, Kali Linux
 
 </div>
 
+---
+
+### SYSTEM STATUS
+
+```text
 [ MACK0B10 SYSTEM STATUS ]
 
 ACCESS GRANTED
@@ -114,4 +116,3 @@ LEARNING IN PROGRESS
 > END OF TRANSMISSION_
 ```
 
-</div> 
