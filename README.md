@@ -96,6 +96,15 @@ Building a hands-on cybersecurity environment using Node.js, Express, Kali Linux
 <div align="center">
 
 ```text
+
+<h3 align="center">🔴 SYSTEM ACTIVITY // CONTRIBUTION TRACKER</h3>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mack0b10/mack0b10/output/github-snake-dark.svg" width="100%" alt="MACK0B10 Animated Contribution Snake">
+
+</div>
+
 [ MACK0B10 SYSTEM STATUS ]
 
 ACCESS GRANTED
